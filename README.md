@@ -11,7 +11,7 @@ If you are an experienced data scientist, you can use this template as a startin
 To get started with this template, follow these steps:
 clone the repository:
 ```bash
-git clone git@github.com:HuimingPan/MachineLearningProject.git
+git clone git@github.com:HuimingPan/MachineLearningProjectTemplate.git
 ```
 
 Open the project directory and start customizing the template according to your project requirements.
