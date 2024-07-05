@@ -1,7 +1,16 @@
+# Introduction
+This is a template for a machine learning project structure. 
+It is designed to help you organize your project in a clean and efficient way. 
+The template includes directories for raw and processed data, notebooks, scripts, utilities, models, configuration files, requirements, tests, and results. 
+It also provides a sample directory structure and descriptions for each directory.
+
 # To-do
+% This section will be updated as your project progresses.
 - [ ] Complete the Readme.md file
 
 # Project Structure
+The project structure is designed to keep your code organized and modular.
+It includes the following directories:
 ```plaintext
 ProjectName/
 |-- data/
