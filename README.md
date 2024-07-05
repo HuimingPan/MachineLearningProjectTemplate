@@ -4,9 +4,24 @@ It is designed to help you organize your project in a clean and efficient way.
 The template includes directories for raw and processed data, notebooks, scripts, utilities, models, configuration files, requirements, tests, and results. 
 It also provides a sample directory structure and descriptions for each directory.
 
+If you are a beginner in machine learning, this template will help you get started with your project.
+If you are an experienced data scientist, you can use this template as a starting point and customize it according to your needs.
+
+# Getting Started
+To get started with this template, follow these steps:
+clone the repository:
+```bash
+git clone git@github.com:HuimingPan/MachineLearningProject.git
+```
+
+Open the project directory and start customizing the template according to your project requirements.
+
+In this README.md, you can provide an overview of your project, describe the project structure, and list the tasks that need to be completed.
+For example, you can list the following tasks:
 # To-do
-% This section will be updated as your project progresses.
-- [ ] Complete the Readme.md file
+- [ ] An example task to be completed.
+
+You can also provide instructions on how to run the project, install dependencies, and run tests. 
 
 # Project Structure
 The project structure is designed to keep your code organized and modular.
